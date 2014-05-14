@@ -16,3 +16,6 @@ C:\Users\Richard\Documents\Visual Studio 2012\Projects\RRChat\RRChat\obj\Debug\R
 C:\Users\Richard\Documents\Visual Studio 2012\Projects\RRChat\RRChat\obj\Debug\RRChat.Form1.resources
 C:\Users\Richard\Documents\Visual Studio 2012\Projects\RRChat\RRChat\obj\Debug\RRChat.Properties.Resources.resources
 C:\Users\Richard\Documents\Visual Studio 2012\Projects\RRChat\RRChat\obj\Debug\RRChat.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\RRChatgit\RRChat\bin\Debug\RRChat.exe.config
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\RRChatgit\RRChat\obj\Debug\RRChat.exe
+C:\Users\Richard\Documents\Visual Studio 2012\Projects\RRChatgit\RRChat\obj\Debug\RRChat.pdb
