@@ -12,19 +12,21 @@ namespace RRChat
 {
     public partial class Form1 : Form
     {
+        bool LoggedIn = false;
         public Form1()
         {
             InitializeComponent();
+           
         }
 
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-            
-        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            if (LoggedIn == false)
+            {
+                myAccountMenu.Visible = false;
+            }
         }
+
     }
 }
